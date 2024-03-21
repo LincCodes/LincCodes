@@ -1,3 +1,3 @@
 # HEY
 For more info:
-[My Website](https://linccodes.vercel.app)
+[My Website](https://linccodes.carrd.co)
